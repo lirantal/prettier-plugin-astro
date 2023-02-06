@@ -1,5 +1,11 @@
 # prettier-plugin-astro
 
+## 0.8.1
+
+### Patch Changes
+
+- e5cf99d: Fix style tags using Stylus being truncated under certain circumstances
+
 ## 0.8.0
 
 ### Minor Changes
